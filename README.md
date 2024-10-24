@@ -8,15 +8,27 @@
 
 ### Why?
 
-- Reduce duplicated work, reduce the insidence of "templates" to be copied across systems, improve overall performance
+- Reduce duplicated work, reduce the insidence of "templates" to be copied across systems - improve overall efficiency
 
 ### How?
 
-- Providing a suite of tools targeted at NEP's function, to improve solver performance and reduce repetitive tasks.
+- Providing a suite of tools targeted at NEP's core functions including:
+  - Note tool
+  - AI Action Note Summary (this currently requires individual API Keys, and is intentionally disabled)
+  - Date calculator (days from a date, days between dates)
+  - Electricity and gas bill calculators
+  - Useful numbers
+  - Case hand-off tracker
+    - Insert
+    - Update
+    - Delete
+    - Search
+  - 
 
 # Installation
 
-1. Download the file
+1. Download [this file](https://raw.githubusercontent.com/dan-m0/NEP-Assistant/main/Assistant.xlsm
+)
 2. Open the file
 3. Enable macros
 4. Press "Get started!"
@@ -33,4 +45,4 @@ If you work in NEP, please email me directly.
 
 # License
 
-This software is provided as is, with no licence. It is illegal to copy, modify or redistribute this software without the express permission of Centrica PLC.
+This software is provided as is. It is licensed for use by Centrica staff, working within Residential Energy only. It is illegal to copy, modify or redistribute this software without the express permission of Centrica PLC. All rights reserved.
